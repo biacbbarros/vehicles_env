@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [server]
 headless = true
 port = 10000
@@ -5,3 +6,12 @@ port = 10000
 [browser]
 serverAddress = "0.0.0.0"
 serverPort = 10000
+=======
+[server]
+headless = true
+port = 10000
+ 
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = 10000
+>>>>>>> 7dcdfbcd2d413b1402fa61ab2697c7b812d027c2
