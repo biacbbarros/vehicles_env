@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Caminho para o arquivo
-arq_caminho = 'C:/Users/bia/OneDrive/Documentos/01.Curso Análise de Dados/Sprint 5/vehicles_env/vehicles_us.csv'
+arq_caminho = 'vehicles_us.csv'
 
 car_data = pd.read_csv(arq_caminho)  # lendo os dados
 
